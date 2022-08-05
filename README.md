@@ -30,3 +30,5 @@ A website for local small or big barber shop businesses. This design has all the
 # Other Examples: 
 
 Take a look at these couple examples that I have in my own portfolio:
+
+-**Kevin Portfolio Website**: https://github.com/hodinsay/Kevin-Portfolio-Website/tree/master
