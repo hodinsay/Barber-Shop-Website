@@ -4,6 +4,8 @@ A website for local small or big barber shop businesses. This design has all the
 
 **Link to the Website**: https://codepen.io/hodin81/full/MWVVvBN
 
+<img width="664" alt="barber-2" src="https://user-images.githubusercontent.com/100463706/190225550-c78e40c8-c0c5-4c80-b4ce-4fa4de52f37f.png">
+
 # How It's Made: 
 
 **Tech Used**: HTML 5, CSS 3, and JavaScript
